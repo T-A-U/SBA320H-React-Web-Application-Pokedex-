@@ -1,3 +1,52 @@
+## SBA 320H - React Web Application Project
+
+
+1 Built with HTML, CSS, JavaScript, REACT, and Redux Toolkit.
+2 Hosted on Heroku or Netlify.
+3 Frequent commits to GitHub.
+
+    A README.md file in your GitHub repository with:
+        Explanations of the technologies used.
+        Explanations of the approach taken.
+        A link to your live site.
+        Usage instructions, if relevant.
+        Unsolved problems.
+        etc.
+    Use AJAX to make a request to an external data source like OMDBapi, and insert some of the data retrieved into the DOM.
+
+
+
+Honstly without help this couldnt be done yet for me.  Probelems/errors every which way. Had more commits too but forced re-something and it's empty now. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
