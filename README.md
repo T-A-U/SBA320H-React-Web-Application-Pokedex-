@@ -1,7 +1,9 @@
 ## SBA 320H - React Web Application Project
 Built using React, JavaScript, DaisyUI( Which is an easy CSS framework to help create the UI, a mentor told me about this), CSS.
 
-When building this app I didn't have to worry about a database so I only focused on the front end. I did the fetch requests first to get the data from the PokeAPI and then I tried to get that data to show up on my website. Then I used DaisyUI to make it look good. I had a lot of trouble along the way, but I figured it out.
+When building this app I didn't have to worry about a database so I only focused on the front end. I did the fetch requests first to get the data from the PokeAPI and then I tried to get that data to show up on my website. Then I used DaisyUI to make it look good. I had a lot of trouble along the way, but I figured it out mostly.
+
+![Screenshot 2024-03-22 095109](https://github.com/T-A-U/SBA320H-React-Web-Application-Pokedex-/assets/153134801/489c2b5c-e309-4913-a18c-c9b2d3e1354a)
 
 To run the application, in your terminal run: export NODE_OPTIONS=--openssl-legacy-provider
 --
