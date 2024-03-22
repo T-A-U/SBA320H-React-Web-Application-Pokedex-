@@ -1,5 +1,10 @@
 ## SBA 320H - React Web Application Project
+Built using React, JavaScript, DaisyUI( Which is an easy CSS framework to help create the UI, a mentor told me about this), CSS.
 
+When building this app I didn't have to worry about a database so I only focused on the front end. I did the fetch requests first to get the data from the PokeAPI and then I tried to get that data to show up on my website. Then I used DaisyUI to make it look good. I had a lot of trouble along the way, but I figured it out.
+
+To run the application, in your terminal run: export NODE_OPTIONS=--openssl-legacy-provider
+--
 
 1 Built with HTML, CSS, JavaScript, REACT, and Redux Toolkit.
 2 Hosted on Heroku or Netlify.
